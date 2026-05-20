@@ -34,13 +34,8 @@ my brain is 90% aesthetic ideas and 10% javascript
 
 ### ✦ github stats
 ---
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=cyle8i&theme=tokyonight">
-</p>
-
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/986554259896160256?theme=pink&bg=ffebf3&animated=true">
 </p>
 
 ---

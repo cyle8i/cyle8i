@@ -39,12 +39,11 @@ my brain is 90% aesthetic ideas and 10% javascript
   <img src="https://streak-stats.demolab.com?user=cyle8i&theme=tokyonight">
 </p>
 
----
-
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/986554259896160256?theme=pink&animated=true" width="350">
+  <img src="https://lanyard.cnrad.dev/api/986554259896160256?theme=pink&bg=ffebf3&animated=true">
 </p>
 
+---
 <p align="center">
 ૮ ˶ᵔ ᵕ ᵔ˶ ა <br>
 soft heart, sharp mind, messy code  

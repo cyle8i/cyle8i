@@ -14,10 +14,6 @@ my brain is 90% aesthetic ideas and 10% javascript
 <h1 align="center">
 <img src="https://cdn.discordapp.com/emojis/1505854375849889872.webp?size=240&animated=true" width="20"> ꒰ঌ♡໒꒱ <img src="https://cdn.discordapp.com/emojis/1505854375849889872.webp?size=240&animated=true" width="20"> 
 </h1>
-
-<p align="center">
-  ♡ ───── ✦ ───── ♡
-</p> 
 </p>
 
 ---

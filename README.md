@@ -1,16 +1,51 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1506557156235939960/1506557219380920370/45D33A43-AA1E-4D08-80AC-17BDE6C20134.gif?ex=6a0eb23f&is=6a0d60bf&hm=6a6871e2771eb054a6bbf306d6eced414c4ac6a2d05e95687593adcc65624cef&" width="70%">
+</p>
 
-<!--
-**cyle8i/cyle8i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  ⋆౨ৎ˚ hi, i'm mily <img src="https://cdn.discordapp.com/emojis/1505854499716206665.webp?size=240&animated=true"width="30">
+</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+just a girl turning ideas into code ♡ <br>
+building tiny things with javascript & chaos ✦ <br>
+creating cute stuff one line of code at a time ✦ <br>
+my brain is 90% aesthetic ideas and 10% javascript
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+╭─  ⋆౨ৎ˚ currently exploring  
+│ <img src="https://cdn.discordapp.com/emojis/1505854558369480734.webp?size=240&animated=true"width="30"> javascript  
+│ <img src="https://cdn.discordapp.com/emojis/1505854558369480734.webp?size=240&animated=true"width="30"> node.js  
+│ <img src="https://cdn.discordapp.com/emojis/1505854558369480734.webp?size=240&animated=true"width="30"> discord bots   
+│ <img src="https://cdn.discordapp.com/emojis/1505854558369480734.webp?size=240&animated=true"width="30"> creating random tiny things  
+╰─ 🎀 
+
+╭─ 💭 things i like
+│ ✦ coding
+│ ✦ designing
+│ ✦ digital products
+│ ✦ aesthetic communities
+╰─ ♡
+
+### ✦ github stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight">
+</p>
+
+---
+
+<p align="center">
+૮ ˶ᵔ ᵕ ᵔ˶ ა <br>
+soft heart, sharp mind, messy code ♡ ♡
+</p>

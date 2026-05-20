@@ -32,11 +32,7 @@ my brain is 90% aesthetic ideas and 10% javascript
 ### ✦ github stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyle8i&show_icons=true&theme=radical&hide_border=true">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyle8i&layout=compact&theme=radical&hide_border=true">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyle8i&theme=tokyonight">
 </p>
 
 <p align="center">

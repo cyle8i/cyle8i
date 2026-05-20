@@ -7,33 +7,30 @@
 </h1>
 
 <p align="center">
-just a girl turning ideas into code ♡ <br>
-building tiny things with javascript & chaos ✦ <br>
-creating cute stuff one line of code at a time ✦ <br>
-my brain is 90% aesthetic ideas and 10% javascript
+just a girl turning ideas into code <br>
+building tiny things with javascript & chaos <br>
+creating cute stuff one line of code at a time <br>
+my brain is 90% aesthetic ideas and 10% javascript 
+  <img src="https://cdn.discordapp.com/emojis/1505854375849889872.webp?size=240&animated=true" width="20">  <img src="https://cdn.discordapp.com/emojis/1505854375849889872.webp?size=240&animated=true" width="20">
 </p>
 
 ---
 
-╭─ ⋆౨ৎ˚ currently exploring  
+╭─ ⋆౨ৎ˚ currently exploring <img src="https://cdn.discordapp.com/emojis/1505854375849889872.webp?size=240&animated=true" width="20">
 │ <img src="https://cdn.discordapp.com/emojis/1505854558369480734.webp?size=240&animated=true" width="20"> javascript  
 │ <img src="https://cdn.discordapp.com/emojis/1505854558369480734.webp?size=240&animated=true" width="20"> node.js  
 │ <img src="https://cdn.discordapp.com/emojis/1505854558369480734.webp?size=240&animated=true" width="20"> discord bots  
 │ <img src="https://cdn.discordapp.com/emojis/1505854558369480734.webp?size=240&animated=true" width="20"> creating random tiny things  
-╰─ <img src="[https://cdn.discordapp.com/emojis/1505854558369480734.webp?size=240&animated=true](https://cdn.discordapp.com/emojis/1505854375849889872.webp?size=240&animated=true)" width="20">  
+╰─ <img src="[https://cdn.discordapp.com/emojis/1505854558369480734.webp?size=240&animated=true](https://cdn.discordapp.com/emojis/1505854375849889872.webp?size=240&animated=true)" width="20">
 
-╭─ ⋆౨ৎ˚ things i like  
+╭─ ⋆౨ৎ˚ things i like <img src="https://cdn.discordapp.com/emojis/1505854375849889872.webp?size=240&animated=true" width="20">
 │ ✦ coding  
 │ ✦ designing  
 │ ✦ digital products  
 │ ✦ aesthetic communities  
-╰─ <img src="[https://cdn.discordapp.com/emojis/1505854558369480734.webp?size=240&animated=true](https://cdn.discordapp.com/emojis/1505854375849889872.webp?size=240&animated=true)" width="20">  
+╰─ <img src="[https://cdn.discordapp.com/emojis/1505854558369480734.webp?size=240&animated=true](https://cdn.discordapp.com/emojis/1505854375849889872.webp?size=240&animated=true)" width="20">
 
 ### ✦ github stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyle8i&theme=tokyonight">
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=cyle8i&theme=tokyonight">
@@ -43,5 +40,6 @@ my brain is 90% aesthetic ideas and 10% javascript
 
 <p align="center">
 ૮ ˶ᵔ ᵕ ᵔ˶ ა <br>
-soft heart, sharp mind, messy code ♡ ♡
+soft heart, sharp mind, messy code
+   <img src="https://cdn.discordapp.com/emojis/1505854375849889872.webp?size=240&animated=true" width="20">
 </p>

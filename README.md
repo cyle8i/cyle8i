@@ -15,32 +15,34 @@ my brain is 90% aesthetic ideas and 10% javascript
 
 ---
 
-╭─  ⋆౨ৎ˚ currently exploring  
-│ <img src="https://cdn.discordapp.com/emojis/1505854558369480734.webp?size=240&animated=true"width="30"> javascript  
-│ <img src="https://cdn.discordapp.com/emojis/1505854558369480734.webp?size=240&animated=true"width="30"> node.js  
-│ <img src="https://cdn.discordapp.com/emojis/1505854558369480734.webp?size=240&animated=true"width="30"> discord bots   
-│ <img src="https://cdn.discordapp.com/emojis/1505854558369480734.webp?size=240&animated=true"width="30"> creating random tiny things  
-╰─ 🎀 
+╭─ ⋆౨ৎ˚ currently exploring
+│
+│ <img src="https://cdn.discordapp.com/emojis/1505854558369480734.webp?size=240&animated=true" width="20"> javascript
+│ <img src="https://cdn.discordapp.com/emojis/1505854558369480734.webp?size=240&animated=true" width="20"> node.js
+│ <img src="https://cdn.discordapp.com/emojis/1505854558369480734.webp?size=240&animated=true" width="20"> discord bots
+│ <img src="https://cdn.discordapp.com/emojis/1505854558369480734.webp?size=240&animated=true" width="20"> creating random tiny things
+│
+╰─ <img src="[https://cdn.discordapp.com/emojis/1505854558369480734.webp?size=240&animated=true](https://cdn.discordapp.com/emojis/1505854375849889872.webp?size=240&animated=true)" width="20">
 
-╭─ 💭 things i like
+╭─ ⋆౨ৎ˚ things i like
 │ ✦ coding
 │ ✦ designing
 │ ✦ digital products
 │ ✦ aesthetic communities
-╰─ ♡
+╰─ <img src="[https://cdn.discordapp.com/emojis/1505854558369480734.webp?size=240&animated=true](https://cdn.discordapp.com/emojis/1505854375849889872.webp?size=240&animated=true)" width="20">
 
 ### ✦ github stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=cyle8i&show_icons=true&theme=tokyonight">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyle8i&layout=compact&theme=tokyonight">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight">
+  <img src="https://streak-stats.demolab.com?user=cyle8i&theme=tokyonight">
 </p>
 
 ---

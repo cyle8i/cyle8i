@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1506557156235939960/1506557219380920370/45D33A43-AA1E-4D08-80AC-17BDE6C20134.gif?ex=6a0eb23f&is=6a0d60bf&hm=6a6871e2771eb054a6bbf306d6eced414c4ac6a2d05e95687593adcc65624cef&" width="70%">
+  <img src="https://cdn.discordapp.com/attachments/1506557156235939960/1506557219380920370/45D33A43-AA1E-4D08-80AC-17BDE6C20134.gif?ex=6a0eb23f&is=6a0d60bf&hm=6a6871e2771eb054a6bbf306d6eced414c4ac6a2d05e95687593adcc65624cef&" width="30%">
 </p>
 
 <h1 align="center">
@@ -15,20 +15,18 @@ my brain is 90% aesthetic ideas and 10% javascript
 
 ---
 
-╭─ ⋆౨ৎ˚ currently exploring
-│
-│ <img src="https://cdn.discordapp.com/emojis/1505854558369480734.webp?size=240&animated=true" width="20"> javascript
-│ <img src="https://cdn.discordapp.com/emojis/1505854558369480734.webp?size=240&animated=true" width="20"> node.js
-│ <img src="https://cdn.discordapp.com/emojis/1505854558369480734.webp?size=240&animated=true" width="20"> discord bots
-│ <img src="https://cdn.discordapp.com/emojis/1505854558369480734.webp?size=240&animated=true" width="20"> creating random tiny things
-│
+╭─ ⋆౨ৎ˚ currently exploring  
+│ <img src="https://cdn.discordapp.com/emojis/1505854558369480734.webp?size=240&animated=true" width="20"> javascript  
+│ <img src="https://cdn.discordapp.com/emojis/1505854558369480734.webp?size=240&animated=true" width="20"> node.js  
+│ <img src="https://cdn.discordapp.com/emojis/1505854558369480734.webp?size=240&animated=true" width="20"> discord bots  
+│ <img src="https://cdn.discordapp.com/emojis/1505854558369480734.webp?size=240&animated=true" width="20"> creating random tiny things  
 ╰─ <img src="[https://cdn.discordapp.com/emojis/1505854558369480734.webp?size=240&animated=true](https://cdn.discordapp.com/emojis/1505854375849889872.webp?size=240&animated=true)" width="20">
 
-╭─ ⋆౨ৎ˚ things i like
-│ ✦ coding
-│ ✦ designing
-│ ✦ digital products
-│ ✦ aesthetic communities
+╭─ ⋆౨ৎ˚ things i like  
+│ ✦ coding  
+│ ✦ designing  
+│ ✦ digital products  
+│ ✦ aesthetic communities  
 ╰─ <img src="[https://cdn.discordapp.com/emojis/1505854558369480734.webp?size=240&animated=true](https://cdn.discordapp.com/emojis/1505854375849889872.webp?size=240&animated=true)" width="20">
 
 ### ✦ github stats

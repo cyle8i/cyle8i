@@ -11,7 +11,7 @@ just a girl turning ideas into code <br>
 building tiny things with javascript & chaos <br>
 creating cute stuff one line of code at a time <br>
 my brain is 90% aesthetic ideas and 10% javascript 
-  <img src="https://cdn.discordapp.com/emojis/1505854375849889872.webp?size=240&animated=true" width="20"> ꒰ঌ♡໒꒱ <img src="https://cdn.discordapp.com/emojis/1505854375849889872.webp?size=240&animated=true" width="20">  
+ ꒰ঌ <img src="https://cdn.discordapp.com/emojis/1505854375849889872.webp?size=240&animated=true" width="20"> ♡ <img src="https://cdn.discordapp.com/emojis/1505854375849889872.webp?size=240&animated=true" width="20"> ໒꒱
 </p>
 
 ---
@@ -21,14 +21,14 @@ my brain is 90% aesthetic ideas and 10% javascript
 │ <img src="https://cdn.discordapp.com/emojis/1505854558369480734.webp?size=240&animated=true" width="20"> node.js  
 │ <img src="https://cdn.discordapp.com/emojis/1505854558369480734.webp?size=240&animated=true" width="20"> discord bots  
 │ <img src="https://cdn.discordapp.com/emojis/1505854558369480734.webp?size=240&animated=true" width="20"> creating random tiny things  
-╰─ <img src="https://cdn.discordapp.com/emojis/1505854558369480734.webp?size=240&animated=true](https://cdn.discordapp.com/emojis/1505854375849889872.webp?size=240&animated=true](https://discord.com/channels/1065439813479694437/1506557156235939960/1506647882831364227" width="20">
+╰─ <img src="https://discord.com/channels/1065439813479694437/1506557156235939960/1506650982589661214" width="20">
 
 ╭─ ⋆౨ৎ˚ things i like <img src="https://cdn.discordapp.com/emojis/1505854375849889872.webp?size=240&animated=true" width="20">
-│ <img src="https://discord.com/channels/1065439813479694437/1506557156235939960/1506648701962031235" width="20"> coding  
-│ │ <img src="https://discord.com/channels/1065439813479694437/1506557156235939960/1506648701962031235" width="20">  designing  
-│ │ <img src="https://discord.com/channels/1065439813479694437/1506557156235939960/1506648701962031235" width="20">  digital products  
-│ │ <img src="https://discord.com/channels/1065439813479694437/1506557156235939960/1506648701962031235" width="20">  aesthetic layout  
-╰─ <img src="https://cdn.discordapp.com/emojis/1505854558369480734.webp?size=240&animated=true](https://cdn.discordapp.com/emojis/1505854375849889872.webp?size=240&animated=true](https://discord.com/channels/1065439813479694437/1506557156235939960/1506647882831364227" width="20">
+│ <img src="https://discord.com/channels/1065439813479694437/1506557156235939960/1506649914921193583" width="20"> coding  
+│ <img src="https://discord.com/channels/1065439813479694437/1506557156235939960/1506649914921193583" width="20">  designing  
+│ <img src="https://discord.com/channels/1065439813479694437/1506557156235939960/1506649914921193583" width="20">  digital products  
+│ <img src="https://discord.com/channels/1065439813479694437/1506557156235939960/1506649914921193583" width="20">  aesthetic layout  
+╰─ <img src="https://discord.com/channels/1065439813479694437/1506557156235939960/1506650982589661214" width="20">
 
 ### ✦ github stats
 ---
@@ -42,5 +42,5 @@ my brain is 90% aesthetic ideas and 10% javascript
 <p align="center">
 ૮ ˶ᵔ ᵕ ᵔ˶ ა <br>
 soft heart, sharp mind, messy code  
-   <img src="https://cdn.discordapp.com/emojis/1505854375849889872.webp?size=240&animated=true" width="20"> ꒰ঌ♡໒꒱ <img src="https://cdn.discordapp.com/emojis/1505854375849889872.webp?size=240&animated=true" width="20">
+ ꒰ঌ  <img src="https://cdn.discordapp.com/emojis/1505854375849889872.webp?size=240&animated=true" width="20"> ꒰ঌ♡໒꒱ <img src="https://cdn.discordapp.com/emojis/1505854375849889872.webp?size=240&animated=true" width="20">  ໒꒱
 </p>

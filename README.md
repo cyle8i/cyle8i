@@ -42,6 +42,10 @@ my brain is 90% aesthetic ideas and 10% javascript
 ---
 
 <p align="center">
+  <img src="https://lanyard.cnrad.dev/api/986554259896160256?theme=pink&animated=true" width="350">
+</p>
+
+<p align="center">
 ૮ ˶ᵔ ᵕ ᵔ˶ ა <br>
 soft heart, sharp mind, messy code  
     <p align="center">

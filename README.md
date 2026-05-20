@@ -49,7 +49,6 @@ my brain is 90% aesthetic ideas and 10% javascript
 ૮ ˶ᵔ ᵕ ᵔ˶ ა <br>
 soft heart, sharp mind, messy code  
   <p align="center">
-  ♡ ───── ✦ ───── ♡
  <img src="https://cdn.discordapp.com/emojis/1505854375849889872.webp?size=240&animated=true" width="20"> ꒰ঌ♡໒꒱ <img src="https://cdn.discordapp.com/emojis/1505854375849889872.webp?size=240&animated=true" width="20">
   </p> 
 </p>
